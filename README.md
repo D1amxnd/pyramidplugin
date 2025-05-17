@@ -2,7 +2,7 @@
 Plugin to create automated Pyramids at different Sizes and Emotes
 
 ### Installation
-1. Download the Newest [Release](https://github.com/smokedzn/pyramidplugin/releases)
+1. Download the Newest [Release](https://github.com/d1amxnd/pyramidplugin/releases)
 2. Extract or Move the Folder inside the ZIP File to 
 
 ``` C:\Users\[Your Username]\AppData\Roaming\Chatterino2\Plugins ```  
