@@ -2,10 +2,19 @@
   "$schema": "https://raw.githubusercontent.com/Chatterino/chatterino2/master/docs/plugin-info.schema.json",
   "name": "Pyramid Emote",
   "description": "Send a pyramid of emotes in Twitch chat.",
-  "authors": ["D1amxnd"],
+  "authors": [
+      "D1amxnd",
+      "smokedzn"
+  ],
   "homepage": "https://github.com/D1amxnd/pyramidplugin",
-  "tags": ["emote", "pyramid", "Twitch"],
-  "version": "1.0.0",
+  "tags": [
+      "emote", 
+      "pyramid", 
+      "Twitch"
+  ],
+  "version": "1.1.0",
   "license": "MIT",
-  "permissions": []
+  "permissions": [
+  
+  ]
 }
